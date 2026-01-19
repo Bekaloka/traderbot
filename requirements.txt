@@ -3,3 +3,4 @@ ccxt
 pandas
 pandas_ta
 nest_asyncio
+flask
