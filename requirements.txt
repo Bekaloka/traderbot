@@ -1,6 +1,8 @@
-python-telegram-bot==20.*
-ccxt
-pandas
-pandas_ta
-nest_asyncio
-flask
+python-telegram-bot==20.7
+ccxt==4.1.100
+pandas==2.1.4
+pandas_ta==0.3.14b0
+nest_asyncio==1.5.8
+flask==3.0.0
+werkzeug==3.0.1
+gunicorn==21.2.0
